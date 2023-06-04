@@ -1,0 +1,95 @@
+bigram,period1,period2,period3,period4
+"('single server', 'Laplace transforms')",23,11,5,4
+"('single server', 'large deviations')",0,6,5,1
+"('single server', 'diffusion')",2,7,2,4
+"('single server', 'fluid limit')",0,1,2,0
+"('single server', 'insensitivity')",2,0,0,1
+"('single server', 'tail asymptotics')",0,0,5,1
+"('single server', 'product form')",4,3,1,1
+"('single server', 'reversibility')",0,0,1,0
+"('single server', 'bandwidth')",1,1,0,0
+"('single server', 'stability')",3,8,2,5
+"('multiserver', 'Laplace transforms')",3,5,1,2
+"('multiserver', 'large deviations')",0,4,1,1
+"('multiserver', 'diffusion')",0,3,6,7
+"('multiserver', 'fluid limit')",0,0,1,3
+"('multiserver', 'insensitivity')",1,1,0,0
+"('multiserver', 'tail asymptotics')",0,0,0,1
+"('multiserver', 'product form')",1,1,0,1
+"('multiserver', 'reversibility')",0,0,1,0
+"('multiserver', 'bandwidth')",0,0,0,0
+"('multiserver', 'stability')",2,2,6,3
+"('queueing network', 'Laplace transforms')",0,2,0,0
+"('queueing network', 'large deviations')",0,4,4,0
+"('queueing network', 'diffusion')",0,9,1,2
+"('queueing network', 'fluid limit')",0,1,1,0
+"('queueing network', 'insensitivity')",0,1,0,0
+"('queueing network', 'tail asymptotics')",0,0,1,0
+"('queueing network', 'product form')",15,8,3,1
+"('queueing network', 'reversibility')",1,2,0,0
+"('queueing network', 'bandwidth')",0,3,0,1
+"('queueing network', 'stability')",2,10,6,4
+"('polling', 'Laplace transforms')",2,1,2,1
+"('polling', 'large deviations')",0,1,0,0
+"('polling', 'diffusion')",1,1,0,0
+"('polling', 'fluid limit')",0,2,0,0
+"('polling', 'insensitivity')",0,0,1,0
+"('polling', 'tail asymptotics')",0,1,0,0
+"('polling', 'product form')",0,0,0,0
+"('polling', 'reversibility')",0,0,0,0
+"('polling', 'bandwidth')",0,0,0,0
+"('polling', 'stability')",4,1,1,1
+"('vacations', 'Laplace transforms')",4,1,1,0
+"('vacations', 'large deviations')",0,0,0,0
+"('vacations', 'diffusion')",0,0,0,0
+"('vacations', 'fluid limit')",0,0,0,0
+"('vacations', 'insensitivity')",0,0,0,0
+"('vacations', 'tail asymptotics')",0,0,0,0
+"('vacations', 'product form')",0,0,0,0
+"('vacations', 'reversibility')",0,0,0,0
+"('vacations', 'bandwidth')",0,0,0,0
+"('vacations', 'stability')",0,0,2,0
+"('priority queue', 'Laplace transforms')",0,1,1,1
+"('priority queue', 'large deviations')",0,0,3,0
+"('priority queue', 'diffusion')",0,0,0,0
+"('priority queue', 'fluid limit')",0,0,0,0
+"('priority queue', 'insensitivity')",0,0,0,0
+"('priority queue', 'tail asymptotics')",0,0,3,0
+"('priority queue', 'product form')",0,0,1,0
+"('priority queue', 'reversibility')",0,0,0,0
+"('priority queue', 'bandwidth')",0,0,0,0
+"('priority queue', 'stability')",0,0,0,0
+"('tandem', 'Laplace transforms')",1,2,2,0
+"('tandem', 'large deviations')",0,2,1,0
+"('tandem', 'diffusion')",0,0,1,1
+"('tandem', 'fluid limit')",0,0,1,1
+"('tandem', 'insensitivity')",0,0,0,0
+"('tandem', 'tail asymptotics')",0,0,4,0
+"('tandem', 'product form')",0,2,1,1
+"('tandem', 'reversibility')",0,1,0,0
+"('tandem', 'bandwidth')",0,0,0,0
+"('tandem', 'stability')",1,1,2,0
+"('Laplace transforms', 'insensitivity')",0,0,1,0
+"('Laplace transforms', 'tail asymptotics')",0,0,2,0
+"('Laplace transforms', 'product form')",0,0,0,0
+"('Laplace transforms', 'reversibility')",0,0,0,0
+"('Laplace transforms', 'bandwidth')",0,0,0,0
+"('Laplace transforms', 'stability')",0,1,0,0
+"('large deviations', 'insensitivity')",0,0,1,0
+"('large deviations', 'tail asymptotics')",1,0,2,1
+"('large deviations', 'product form')",0,0,1,0
+"('large deviations', 'reversibility')",0,0,0,0
+"('large deviations', 'bandwidth')",0,5,2,0
+"('large deviations', 'stability')",0,2,0,0
+"('diffusion', 'insensitivity')",0,0,0,0
+"('diffusion', 'tail asymptotics')",0,0,0,0
+"('diffusion', 'product form')",0,1,1,0
+"('diffusion', 'reversibility')",0,0,0,0
+"('diffusion', 'bandwidth')",0,0,0,0
+"('diffusion', 'stability')",0,3,2,1
+"('fluid limit', 'insensitivity')",0,0,0,0
+"('fluid limit', 'tail asymptotics')",0,0,1,0
+"('fluid limit', 'product form')",0,0,0,0
+"('fluid limit', 'reversibility')",0,0,0,0
+"('fluid limit', 'bandwidth')",0,0,1,0
+"('fluid limit', 'stability')",0,3,2,5
